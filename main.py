@@ -9,6 +9,7 @@ from aiogram.types import FSInputFile, URLInputFile, BufferedInputFile
 
 TOKEN = Token
 
+
 dp = Dispatcher()
 
 
